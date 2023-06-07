@@ -1,0 +1,15 @@
+
+body {
+background-color: cadetblue;
+font-size: medium;
+font-style: italic;
+}
+h1{
+    background-color: darkslategray;
+   font-size: x-large;
+   font-style: italic;
+}
+h2{background-color: darkslategrey;
+font-size: larger;
+color: maroon;
+}

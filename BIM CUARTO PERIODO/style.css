@@ -1,0 +1,8 @@
+h1,a {
+    color: green;
+    text-align: center;
+}
+body{background-color: aqua;}
+li,p{font-size: 30px;}
+h2,h3{font-size: 35px;}
+img{size-adjust: 10px;}
